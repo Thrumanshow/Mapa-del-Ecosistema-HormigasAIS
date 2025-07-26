@@ -23,9 +23,9 @@ Fundador de HormigasAIS
 | 🧩 **Confluence (Atlassian)** | Documentación de proyectos, automatización y filosofía | *(pendiente de publicar espacio público)* |
 | 🤖 **n8n Self-hosted Node** | Flujos de automatización personalizados con identidad propia | [Ver repositorio](https://github.com/HormigasAIS/n8n-selfhost-hormigasais) |
 | 📡 **Slack (integrado con GitHub & Confluence)** | Canal operativo privado (automatización y comunidad) | *(Uso interno, documentado en GitHub)* |
-| 🔎 **Wikipedia (cuenta bloqueada - histórico)** | Registro de contribuciones y evaluación de relevancia | [Usuario:HormigasAIS (open)](https://es.wikipedia.org/wiki/Usuario:HormigasAIS) |
+| 🔎 **Wikipedia (cuenta abierta- histórico)** | Registro de contribuciones y evaluación de relevancia | [Usuario:HormigasAIS](https://es.wikipedia.org/wiki/Usuario:HormigasAIS) |
 | 🌱 **Perfil Atlassian Developer (pendiente)** | Comunidad y herramientas basadas en Forge y Confluence | *(Próxima etapa)* |
-| 🌍 **Web o landing page** | Mapa del proyecto, referencias y red institucional | *(https://thrumanshow.github.io/Mapa-del-Ecosistema-HormigasAIS/)
+| 🌍 **Web o landing page** (new-pagina)|** Mapa del proyecto, referencias y red institucional | [Usuario](https://thrumanshow.github.io/Mapa-del-Ecosistema-HormigasAIS/)
 ---
 
 ## 🧬 Frase identitaria

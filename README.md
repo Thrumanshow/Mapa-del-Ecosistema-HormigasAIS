@@ -25,7 +25,7 @@ Fundador de HormigasAIS
 | 📡 **Slack (integrado con GitHub & Confluence)** | Canal operativo privado (automatización y comunidad) | *(Uso interno, documentado en GitHub)* |
 | 🔎 **Wikipedia (cuenta bloqueada - histórico)** | Registro de contribuciones y evaluación de relevancia | [Usuario:HormigasAIS (bloqueado)](https://es.wikipedia.org/wiki/Usuario:HormigasAIS) |
 | 🌱 **Perfil Atlassian Developer (pendiente)** | Comunidad y herramientas basadas en Forge y Confluence | *(Próxima etapa)* |
-| 🌍 **Web o landing page** | Mapa del proyecto, referencias y red institucional | *(Esta página actual)* |
+| 🌍 **Web o landing page** | Mapa del proyecto, referencias y red institucional | *(https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0)* |
 
 ---
 
